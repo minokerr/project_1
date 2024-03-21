@@ -1,0 +1,76 @@
+.paragraph2 {
+  color: rgb(255, 255, 255);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 7.81vw;
+}
+.paragraph2 .par_2 {
+  display: block;
+  margin-bottom: 2vw;
+  text-align: center;
+}
+.paragraph2 .par_2 .img_2 {
+  text-align: center;
+  height: 3.13vw;
+}
+.paragraph2 .first {
+  position: relative;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.paragraph2 .first img {
+  border-radius: 0.75vw;
+  height: 100%;
+}
+.paragraph2 .second {
+  position: relative;
+}
+.paragraph2 .second img {
+  border-radius: 0.75vw;
+  height: 100%;
+}
+.paragraph2 .third {
+  position: relative;
+}
+.paragraph2 .third img {
+  border-radius: 0.75vw;
+  height: 100%;
+}
+.paragraph2 .fourth {
+  position: relative;
+}
+.paragraph2 .fourth img {
+  border-radius: 0.75vw;
+  height: 100%;
+}
+.paragraph2 .fith {
+  position: relative;
+}
+.paragraph2 .fith img {
+  border-radius: 0.75vw;
+  height: 100%;
+}
+.paragraph2 .p_2 {
+  position: absolute;
+  top: 9vw;
+  left: 3vw;
+  font-size: 1.3vw;
+}
+.paragraph2 .p22 {
+  position: absolute;
+  top: 23vw;
+  left: 3vw;
+  font-size: 1.3vw;
+}
+.paragraph2 .grid_2 {
+  display: grid;
+  grid-template-columns: 21.67vw 21.67vw 21.67vw;
+  grid-template-rows: 13.44vw 13.44vw;
+  gap: 1.3vw;
+}/*# sourceMappingURL=sec_2.css.map */

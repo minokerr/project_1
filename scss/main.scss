@@ -1,0 +1,17 @@
+@import "blocks/_header.scss";
+@import "blocks/sec_1.scss";
+@import "blocks/sec_2.scss";
+@import "blocks/sec_3.scss";
+@import "blocks/sec_4.scss";
+
+@font-face {
+	font-family: 'ElMessiri'; 
+	src: local('ElMessiri'),
+		url(/fonts/ElMessiri-VariableFont_wght.ttf); 
+}
+
+body{
+  background-color: #162831;
+  margin-right: 5vw;
+  margin-left: 5vw;
+}

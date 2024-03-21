@@ -1,0 +1,59 @@
+.paragraph4 {
+  margin: 0 10vw 10vw 10vw;
+}
+.paragraph4 .par_4 {
+  display: block;
+  margin-bottom: 3vw;
+  text-align: center;
+}
+.paragraph4 .par_4 .img_4 {
+  text-align: center;
+  height: 3.07vw;
+}
+.paragraph4 .block {
+  font-size: 0.94vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: rgb(255, 255, 255);
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.paragraph4 .block .block_4_1 {
+  display: inline-block;
+  width: 21.67vw;
+  margin-right: 6.98vw;
+}
+.paragraph4 .block .block_4_1 .stroke_1 {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 1.04vw;
+}
+.paragraph4 .block .block_4_1 .img_4_mini {
+  height: 0.47vw;
+  width: 0.94vw;
+  margin-right: 1.04vw;
+}
+.paragraph4 .block .block_4_1 .p_sell {
+  margin-left: 5vw;
+}
+.paragraph4 .block .block_4_2 {
+  text-align: center;
+}
+.paragraph4 .block .block_4_2 .img_4_2 {
+  width: 27.4vw;
+  height: 20.63vw;
+  border-radius: 0.75vw;
+  margin-bottom: 1.56vw;
+}
+.paragraph4 .block .block_4_2 p {
+  text-align: center;
+}/*# sourceMappingURL=sec_4.css.map */

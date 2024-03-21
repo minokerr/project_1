@@ -1,0 +1,55 @@
+.paragraph4 {
+    margin: 0 10vw 10vw 10vw;
+    .par_4 {
+        display: block;
+        margin-bottom: 3vw;
+        text-align: center;
+        .img_4{
+            text-align: center;   
+            height:3.07vw;
+            
+        }  
+    }
+    .block{
+
+    font-size: 0.94vw;
+    display: flex;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+
+
+    .block_4_1{
+        display: inline-block;
+        width: 21.67vw;
+        margin-right: 6.98vw;
+        
+        .stroke_1{
+            display: inline-flex;
+            align-items: center;
+            margin-bottom: 1.04vw;
+        }
+        .img_4_mini{
+            height: 0.47vw;
+            width: 0.94vw;
+            margin-right: 1.04vw;
+        }
+        .p_sell{
+            margin-left: 5vw;
+        }
+    }
+    .block_4_2{
+        text-align: center;
+        .img_4_2 {
+            width: 27.40vw;
+            height: 20.63vw;
+            border-radius: 0.75vw;
+            margin-bottom: 1.56vw;
+        }
+        p{
+            text-align: center;
+        }
+
+    }
+}
+}

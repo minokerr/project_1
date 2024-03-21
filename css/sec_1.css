@@ -1,0 +1,35 @@
+.paragraph1 {
+  color: rgb(255, 255, 255);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  margin-bottom: 7.81vw;
+}
+.paragraph1 .text_1 {
+  position: absolute;
+  top: 15vw;
+}
+.paragraph1 .img_1 {
+  width: 90vw;
+  border-radius: 1vw;
+  z-index: -1;
+}
+.paragraph1 p {
+  z-index: 10;
+  text-align: center;
+}
+.paragraph1 .p1 {
+  font-size: 1.5vw;
+  margin-bottom: 4vw;
+  font-weight: bold;
+  font-family: "ElMessiri", sans-serif;
+}
+.paragraph1 .p2 {
+  font-size: 3.5vw;
+  font-weight: bold;
+  font-family: "ElMessiri", sans-serif;
+}/*# sourceMappingURL=sec_1.css.map */

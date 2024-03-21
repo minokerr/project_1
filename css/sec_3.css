@@ -1,0 +1,89 @@
+.paragraph3 {
+  margin: 0 10vw 0 10vw;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-bottom: 7.81vw;
+}
+.paragraph3 .h3 {
+  color: rgb(255, 255, 255);
+  font-size: 1.25vw;
+  border-spacing: 4vw;
+  text-align: left;
+}
+.paragraph3 .p3 {
+  color: rgb(255, 255, 255);
+  font-size: 0.83vw;
+  text-align: left;
+  border-spacing: 2vw;
+}
+.paragraph3 .par_3 {
+  display: block;
+  margin-bottom: 3vw;
+  text-align: center;
+}
+.paragraph3 .par_3 .img_3 {
+  text-align: center;
+  height: 3.13vw;
+}
+.paragraph3 .block_3_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 3vw;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.paragraph3 .block_3_1 .txt_3_1 {
+  width: 24.27vw;
+  float: right;
+  padding-right: 4.38vw;
+}
+.paragraph3 .block_3_1 .img_3_1 {
+  float: left;
+}
+.paragraph3 .block_3_1 .img_3_1 img {
+  width: 27.4vw;
+  border-radius: 0.75vw;
+}
+.paragraph3 .block_3_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.paragraph3 .block_3_2 .txt_3_2 {
+  width: 24.27vw;
+  float: left;
+  padding-left: 4.38vw;
+}
+.paragraph3 .block_3_2 .img_3_2 {
+  float: right;
+}
+.paragraph3 .block_3_2 .img_3_2 img {
+  width: 27.4vw;
+  border-radius: 0.75vw;
+}/*# sourceMappingURL=sec_3.css.map */
